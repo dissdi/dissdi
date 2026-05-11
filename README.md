@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**dissdi/dissdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate researcher at GILAB, Chungnam National University.
 
-Here are some ideas to get you started:
+- 🎓 B.S. Student @ Chungnam National University (2022 ~ present)
+- 🔬 Undergraduate Researcher @ GILAB (2026 ~ present)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Research Interests
+- LLM Safety & Security
+- Financial LLM Security
+
+### 📫 Contact
+- Email: your@email.com
