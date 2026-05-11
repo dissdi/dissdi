@@ -10,6 +10,3 @@ I'm an undergraduate researcher at GILAB, Chungnam National University.
 ### 🔍 Research Interests
 - LLM Safety & Security
 - Financial LLM Security
-
-### 📫 Contact
-- Email: your@email.com
